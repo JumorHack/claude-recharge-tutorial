@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Claude Code 本地配置
+.claude/
+
+# 不上传的文件
+*.pdf
+# 只保留 images/ 里的图片，忽略根目录散落的图片
+/*.png
