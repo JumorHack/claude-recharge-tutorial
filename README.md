@@ -1,4 +1,4 @@
-# Claude 会员购买及使用教程（面向国内用户）
+# 国内用户如何高效开通Claude Pro
 
 github地址：https://github.com/JumorHack/claude-recharge-tutorial
 
