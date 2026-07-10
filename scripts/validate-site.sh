@@ -5,7 +5,7 @@ cd "$(dirname "$0")/.."
 
 ruby -rjson -rpathname <<'RUBY'
 html_files = Dir['docs/**/*.html'].sort
-raise "expected 12 HTML pages, found #{html_files.length}" unless html_files.length == 12
+raise "expected 13 HTML pages, found #{html_files.length}" unless html_files.length == 13
 
 failures = []
 
