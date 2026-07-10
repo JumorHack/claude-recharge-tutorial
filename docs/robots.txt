@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jumorhack.github.io/claude-recharge-tutorial/sitemap.xml
